@@ -1,0 +1,12 @@
+.user-input {
+  color: white;
+  background-color: rgb(80, 80, 80);
+  padding: 20px;
+  text-align: center;
+}
+
+.guess-button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+}

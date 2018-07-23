@@ -1,0 +1,7 @@
+.board-container {
+  text-align: center;
+  margin: 0 auto;
+  background-color: rgb(50, 100, 150);
+  max-width: 800px;
+  padding: 20px;
+}
